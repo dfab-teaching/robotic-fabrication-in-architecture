@@ -86,7 +86,9 @@ Find the Rhino 8 Python executable by running the following in a terminal or com
     (rfab) python -m compas_rhino.print_python_path
 
 Your Rhino 8 Python path should look something like this:
+
     C:\Users\your_user_name\.rhinocode\py39-rh8\python.exe
+    
 
 Then you can pip install all dependencies using the file path of the Rhino 8 Python executable:
 
