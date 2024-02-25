@@ -85,13 +85,16 @@ Find the Rhino 8 Python executable by running the following in a terminal or com
 
     (rfab) python -m compas_rhino.print_python_path
 
+Your Rhino 8 Python path should look something like this:
+    C:\Users\your_user_name\.rhinocode\py39-rh8\python.exe
+
 Then you can pip install all dependencies using the file path of the Rhino 8 Python executable:
 
-    (rfab) C:\Users\your_user_name\.rhinocode\py39-rh8\python.exe -m pip install your_filepath_to_assembly_information_model
+    (rfab) your_py39-rh8_path -m pip install your_filepath_to_assembly_information_model
 
-    (rfab) C:\Users\your_user_name\.rhinocode\py39-rh8\python.exe -m pip install your_filepath_to_am_information_model
+    (rfab) your_py39-rh8_path -m pip install your_filepath_to_am_information_model
 
-    (rfab) C:\Users\your_user_name\.rhinocode\py39-rh8\python.exe -m pip install your_filepath_to_ur_fabrication_control
+    (rfab) your_py39-rh8_path -m pip install your_filepath_to_ur_fabrication_control
 
 **Voilà!**
 **You can now go to VS Code, Rhino or Grasshopper and run the example files!**
