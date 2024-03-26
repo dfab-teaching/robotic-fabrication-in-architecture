@@ -31,6 +31,7 @@ Title | Description | Slides
 * [Docker Desktop](https://www.docker.com/products/docker-desktop)
 * potentially: [Microsoft Visual C++](https://www.scivision.dev/python-windows-visual-c-14-required/)
 
+After installing Rhino 8, open Rhino and run ScriptEditor on Rhino command line to initialize Python.
 
 ## Dependencies
 
