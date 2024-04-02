@@ -17,8 +17,6 @@ Title | Description | Slides
 **Data Structures** | COMPAS data structures  | [Data Structures](https://docs.google.com/presentation/d/1ZhYimM0iN6Z2A4RCKiuKsYBqPTwIptLr44-D3ilJjXc/edit?usp=sharing)
 **Assembly** | Data structure for discrete assemblies  | [Assembly Information Model](https://docs.google.com/presentation/d/1J1jkmQLJ98wGwzvmwt8uPxFqBe0STTynKg6Yyv8J2nE/edit?usp=sharing)
 **Robotic Assembly Planning** | Planning of a robotic assembly process | [Robotic Assembly Planning](https://docs.google.com/presentation/d/1qSVU1neaKMGB9G6ZXQtxqF8JLM43VixEK1s12HQNV-g/edit?usp=sharing)
-**Additive Manufacturing** | Data structure for Additive Manufacturing  | [AM Information Model](https://docs.google.com/presentation/d/1gLgQDtK69PGTvqRwn9LETbHu659OO8nmUyur00MQUM0/edit?usp=sharing)
-**Robotic AM Planning** | Planning of a robotic 3D printing process | [Robotic AM Planning](https://docs.google.com/presentation/d/1qSVU1neaKMGB9G6ZXQtxqF8JLM43VixEK1s12HQNV-g/edit?usp=sharing)
 
 
 ## Requirements
