@@ -4,7 +4,7 @@
 
 Welcome to **Robotic Fabrication in Architecture**, a course dedicated to beginner-friendly creative coding sessions and exercises for building architecture with robots.
 
-In these sessions, we will introduce computational methods for architecture, fabrication & construction, incentivising computational literacy. Students will learn the theoretical background and basic implementation details of fundamental datastructures and algorithms, and to plan and control robot tasks in CAD environments using the **[COMPAS](https://compas-dev.github.io/)** and **[COMPAS FAB](https://gramaziokohler.github.io/compas_fab/latest/)** framework, and other open-source libraries.
+In these sessions, we will introduce computational methods for architecture, fabrication & construction, and incentivising computational literacy. Students will learn the theoretical background and basic implementation details of fundamental data structures and algorithms and plan and control robot tasks in CAD environments using the **[COMPAS](https://compas-dev.github.io/)** and **[COMPAS FAB](https://gramaziokohler.github.io/compas_fab/latest/)** framework, and other open-source libraries.
 
 
 ## Session Blocks
@@ -12,9 +12,9 @@ In these sessions, we will introduce computational methods for architecture, fab
 Title | Description | Slides  
 ----- | ----------- | ------
 **Python Basics** | Quick start on Python | [Python Basics](https://docs.google.com/presentation/d/1WHFK_gnQg8jOp2D4GcX2HFWUhVAizvreffQBoUX3fVA/edit?usp=sharing)
-**Geometry** | COMPAS geometry  | [Geometry](https://docs.google.com/presentation/d/1B_O2qr_oV_Olf64CaTKgPp1fjy4Z61LwsM8OHDhlvyQ/edit?usp=sharing)
+**Geometry** | COMPAS geometry  | [Geometry](https://docs.google.com/presentation/d/16DmLj11qJGcRS9t2plSShqpEKF18fyEFxWbCWRyrwEE/edit?usp=sharing)
 **Frames and Transformations** | Frames and transformations  | [Frames and Transformations](https://docs.google.com/presentation/d/1kMZ3cG7GBg3h3EDVvI_GPqTRwIeRn_IKUbUgkiBQ6sg/edit?usp=sharing)
-**Data Structures** | COMPAS data structures  | [Data Structures]()
+**Data Structures** | COMPAS data structures  | [Data Structures](https://docs.google.com/presentation/d/1lRxruAAzjBgQr4ochBbuwnfC7lbJ6FwgH7dUbuNIuC0/edit?usp=sharing)
 **Assembly** | Data structure for discrete assemblies  | [Assembly Information Model](https://docs.google.com/presentation/d/1EY5Ea9krgYT-yRucCcFmTMQWmW_tOlGJl_jmRUxw_n0/edit?usp=sharing)
 **Robotic Assembly Planning** | Planning of a robotic assembly process | [Robotic Assembly Planning](https://docs.google.com/presentation/d/12F6xKzHDyGBA3t_Fu9rLMx7adLqFSEUbz4777dxN2UM/edit?usp=sharing)
 
