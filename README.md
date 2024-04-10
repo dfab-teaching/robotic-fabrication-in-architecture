@@ -16,7 +16,7 @@ Title | Description | Slides
 **Frames and Transformations** | Frames and transformations  | [Frames and Transformations](https://docs.google.com/presentation/d/1eXnclwxPe9wMHOsk25_IeLtQKK4OSs0BAjjTEWq7eF0/edit?usp=sharing)
 **Data Structures** | COMPAS data structures  | [Data Structures](https://docs.google.com/presentation/d/1ZhYimM0iN6Z2A4RCKiuKsYBqPTwIptLr44-D3ilJjXc/edit?usp=sharing)
 **Assembly** | Data structure for discrete assemblies  | [Assembly Information Model](https://docs.google.com/presentation/d/1J1jkmQLJ98wGwzvmwt8uPxFqBe0STTynKg6Yyv8J2nE/edit?usp=sharing)
-**Robotic Assembly Planning** | Planning of a robotic assembly process | [Robotic Assembly Planning](https://docs.google.com/presentation/d/1qSVU1neaKMGB9G6ZXQtxqF8JLM43VixEK1s12HQNV-g/edit?usp=sharing)
+**Robotic Assembly Planning** | Planning of a robotic assembly process | [Robotic Assembly Planning](https://docs.google.com/presentation/d/12F6xKzHDyGBA3t_Fu9rLMx7adLqFSEUbz4777dxN2UM/edit?usp=sharing)
 
 
 ## Requirements
