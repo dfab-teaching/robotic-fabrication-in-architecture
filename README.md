@@ -60,7 +60,10 @@ Please set up your Python environment executing the commands below in Anaconda P
     (rfab) python -m compas_rhino.print_python_path
     (rfab) C:\Users\your_user_name\.rhinocode\py39-rh8\python.exe -m pip install compas_fab
 
+#### Installation of matplotlib 
 
+    (rfab) pip install -U matplotlib
+    
 ### 2. Installation of Dependencies
 
 
