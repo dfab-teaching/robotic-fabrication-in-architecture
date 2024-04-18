@@ -77,7 +77,6 @@ Then open Github Desktop and clone the following repositories into you workspace
 
 * [Robotic Fabrication in Architecture](https://github.com/le-ar-n/robotic_fabrication_in_architecture) 
 * [Assembly Information Model](https://github.com/augmentedfabricationlab/assembly_information_model_2)
-* [AM Information Model](https://github.com/augmentedfabricationlab/am_information_model_2)
 * [UR Robot Simulation and Control](https://github.com/augmentedfabricationlab/ur_fabrication_control)
 
 
@@ -95,8 +94,6 @@ Your Rhino 8 Python path should look something like this:
 Then you can pip install all dependencies using the file path of the Rhino 8 Python executable:
 
     (rfab) your_py39-rh8_path -m pip install your_filepath_to_assembly_information_model
-
-    (rfab) your_py39-rh8_path -m pip install your_filepath_to_am_information_model
 
     (rfab) your_py39-rh8_path -m pip install your_filepath_to_ur_fabrication_control
 
