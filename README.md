@@ -29,19 +29,18 @@ Title | Description | Slides
 * [Docker Desktop](https://www.docker.com/products/docker-desktop)
 * potentially: [Microsoft Visual C++](https://www.scivision.dev/python-windows-visual-c-14-required/)
 
-After installing Rhino 8, open Rhino and run ScriptEditor on Rhino command line to initialize Python.
+After installing Rhino 8, open Rhino and run ScriptEditor on the Rhino command line to initialize Python.
 
 ## Dependencies
 
 * [COMPAS](https://compas-dev.github.io/)
 * [COMPAS FAB](https://gramaziokohler.github.io/compas_fab/latest/)
-* [Assembly Information Model](https://github.com/augmentedfabricationlab/assembly_information_model_2)
-* [AM Information Model](https://github.com/augmentedfabricationlab/am_information_model_2)
+* [Assembly Information Model](https://github.com/augmentedfabricationlab/assembly_information_model)
 * [UR Robot Simulation and Control](https://github.com/augmentedfabricationlab/ur_fabrication_control)
 
 ## Getting Started
 
-Please set up your Python environment executing the commands below in Anaconda Prompt (Run as Administrator):
+Please set up your Python environment by executing the commands below in Anaconda Prompt (Run as Administrator):
 
 ### 1. Setting up the Anaconda Environment with COMPAS FAB
 
@@ -73,10 +72,10 @@ Create a workspace directory:
 
 C:\Users\YOUR_USERNAME\workspace
 
-Then open Github Desktop and clone the following repositories into you workspace folder.
+Then open GitHub Desktop and clone the following repositories into your workspace folder.
 
 * [Robotic Fabrication in Architecture](https://github.com/le-ar-n/robotic_fabrication_in_architecture) 
-* [Assembly Information Model](https://github.com/augmentedfabricationlab/assembly_information_model_2)
+* [Assembly Information Model](https://github.com/augmentedfabricationlab/assembly_information_model)
 * [UR Robot Simulation and Control](https://github.com/augmentedfabricationlab/ur_fabrication_control)
 
 
