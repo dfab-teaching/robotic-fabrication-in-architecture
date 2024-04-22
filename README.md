@@ -21,7 +21,7 @@ Title | Description | Slides
 
 ## Requirements
 
-* Windows 10 Professional
+* Windows 10 Professional / MacOS
 * Rhino 8 / Grasshopper
 * [Anaconda Python](https://www.anaconda.com/download)
 * [Visual Studio Code](https://code.visualstudio.com/)
@@ -30,6 +30,8 @@ Title | Description | Slides
 * potentially: [Microsoft Visual C++](https://www.scivision.dev/python-windows-visual-c-14-required/)
 
 After installing Rhino 8, open Rhino and run ScriptEditor on the Rhino command line to initialize Python.
+
+For Mac installation instructions go to (https://github.com/dfab-teaching/robotic-fabrication-in-architecture/wiki/Mac-Installation)!
 
 ## Dependencies
 
@@ -74,7 +76,7 @@ C:\Users\YOUR_USERNAME\workspace
 
 Then open GitHub Desktop and clone the following repositories into your workspace folder.
 
-* [Robotic Fabrication in Architecture](https://github.com/le-ar-n/robotic_fabrication_in_architecture) 
+* [Robotic Fabrication in Architecture](https://github.com/dfab-teaching/robotic-fabrication-in-architecture) 
 * [Assembly Information Model](https://github.com/augmentedfabricationlab/assembly_information_model)
 * [UR Robot Simulation and Control](https://github.com/augmentedfabricationlab/ur_fabrication_control)
 
@@ -88,7 +90,6 @@ Find the Rhino 8 Python executable by running the following in a terminal or com
 Your Rhino 8 Python path should look something like this:
 
     C:\Users\your_user_name\.rhinocode\py39-rh8\python.exe
-    
 
 Then you can pip install all dependencies using the file path of the Rhino 8 Python executable:
 
