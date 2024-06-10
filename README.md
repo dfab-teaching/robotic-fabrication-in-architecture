@@ -9,14 +9,14 @@ In these sessions, we will introduce computational methods for architecture, fab
 
 ## Session Blocks
 
-Title | Description | Slides  
------ | ----------- | ------
-**Python Basics** | Quick start on Python | [Python Basics](https://docs.google.com/presentation/d/1fIpX7-DEaRLJhKe3QST4xTEx9U57yM9mbpVtvykUyD8/edit?usp=sharing)
-**Geometry** | COMPAS geometry  | [Geometry](https://docs.google.com/presentation/d/16DmLj11qJGcRS9t2plSShqpEKF18fyEFxWbCWRyrwEE/edit?usp=sharing)
-**Frames and Transformations** | Frames and transformations  | [Frames and Transformations](https://docs.google.com/presentation/d/1kMZ3cG7GBg3h3EDVvI_GPqTRwIeRn_IKUbUgkiBQ6sg/edit?usp=sharing)
-**Data Structures** | COMPAS data structures  | [Data Structures](https://docs.google.com/presentation/d/1lRxruAAzjBgQr4ochBbuwnfC7lbJ6FwgH7dUbuNIuC0/edit?usp=sharing)
-**Assembly** | Data structure for discrete assemblies  | [Assembly Information Model](https://docs.google.com/presentation/d/1EY5Ea9krgYT-yRucCcFmTMQWmW_tOlGJl_jmRUxw_n0/edit?usp=sharing)
-**Robotic Assembly Planning** | Planning of a robotic assembly process | [Robotic Assembly Planning](https://docs.google.com/presentation/d/12F6xKzHDyGBA3t_Fu9rLMx7adLqFSEUbz4777dxN2UM/edit?usp=sharing)
+Title | Description | Slides | Session material | Assignment 
+----- | ----------- | ------ | ---------------- | ----------
+**Python Basics** | Quick start on Python | [Python Basics](https://docs.google.com/presentation/d/1fIpX7-DEaRLJhKe3QST4xTEx9U57yM9mbpVtvykUyD8/edit?usp=sharing) | https://github.com/robotic-fabrication-in-arch-classroom/session-01 | https://github.com/robotic-fabrication-in-arch-classroom/assignment-01
+**Geometry** | COMPAS geometry  | [Geometry](https://docs.google.com/presentation/d/16DmLj11qJGcRS9t2plSShqpEKF18fyEFxWbCWRyrwEE/edit?usp=sharing) | https://github.com/robotic-fabrication-in-arch-classroom/session-02 | https://github.com/robotic-fabrication-in-arch-classroom/assignment-02
+**Frames and Transformations** | Frames and transformations  | [Frames and Transformations](https://docs.google.com/presentation/d/1kMZ3cG7GBg3h3EDVvI_GPqTRwIeRn_IKUbUgkiBQ6sg/edit?usp=sharing) | https://github.com/robotic-fabrication-in-arch-classroom/session-03 | https://github.com/robotic-fabrication-in-arch-classroom/assignment-03
+**Data Structures** | COMPAS data structures  | [Data Structures](https://docs.google.com/presentation/d/1lRxruAAzjBgQr4ochBbuwnfC7lbJ6FwgH7dUbuNIuC0/edit?usp=sharing) | https://github.com/robotic-fabrication-in-arch-classroom/session-04 | https://github.com/robotic-fabrication-in-arch-classroom/assignment-04
+**Assembly** | Data structure for discrete assemblies  | [Assembly Information Model](https://docs.google.com/presentation/d/1EY5Ea9krgYT-yRucCcFmTMQWmW_tOlGJl_jmRUxw_n0/edit?usp=sharing) | https://github.com/robotic-fabrication-in-arch-classroom/session-05
+**Robotic Assembly Planning** | Planning of a robotic assembly process | [Robotic Assembly Planning](https://docs.google.com/presentation/d/12F6xKzHDyGBA3t_Fu9rLMx7adLqFSEUbz4777dxN2UM/edit?usp=sharing) | https://github.com/robotic-fabrication-in-arch-classroom/session-06
 
 
 ## Requirements
