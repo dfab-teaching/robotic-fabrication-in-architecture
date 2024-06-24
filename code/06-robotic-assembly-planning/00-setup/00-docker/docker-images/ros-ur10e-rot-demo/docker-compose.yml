@@ -1,7 +1,7 @@
 version: '2'
 services:
   ros-master:
-    image: gramaziokohler/ros-noetic-moveit:latest
+    image: gramaziokohler/ros-base:19.11
     container_name: ros-master
     ports:
       - "11311:11311"
@@ -9,7 +9,7 @@ services:
       - roscore
 
   ros-bridge:
-    image: gramaziokohler/ros-noetic-dfab:22.12
+    image: augmentedfabricationlab/ros-ur-planner:latest
     container_name: ros-bridge
     environment:
       - "ROS_HOSTNAME=ros-bridge"
@@ -25,7 +25,7 @@ services:
       - rosbridge_websocket.launch
 
   ros-fileserver:
-    image: gramaziokohler/ros-noetic-dfab:22.12
+    image: augmentedfabricationlab/ros-ur-planner:latest
     container_name: ros-fileserver
     environment:
       - ROS_HOSTNAME=ros-fileserver
@@ -37,28 +37,24 @@ services:
       - --wait
       - file_server
       - file_server.launch
-      
-  move-it:
-    image: gramaziokohler/ros-noetic-dfab:22.12
-    container_name: abb-crb15000-demo
+
+  ur-demo:
+    image: augmentedfabricationlab/ros-ur-planner:latest
+    container_name: ur-demo
     environment:
-      - ROS_HOSTNAME=move-it
+      - ROS_HOSTNAME=ur-demo
       - ROS_MASTER_URI=http://ros-master:11311
-      # GUI: To forward the GUI to an external X11 server (eg. XMing), uncomment the following line
-      # - DISPLAY=host.docker.internal:0.0
+    #  - DISPLAY=gui:0.0
     depends_on:
       - ros-master
+    #  - gui
     command:
       - roslaunch
       - --wait
-      - abb_crb15000_5_95_moveit_config
+      - ur10_e_table_moveit_config
       - demo.launch
-      # To launch the RVIZ GUI, change the following to true
-      - use_rviz:=false
-      - pipeline:=ompl
 
-  # gui:
-  #   image: gramaziokohler/novnc:latest
-  #   container_name: abb-crb15000-gui
-  #   ports:
-  #     - "8080:8080"
+  gui:
+    image: gramaziokohler/novnc:latest
+    ports:
+      - "8080:8080"
